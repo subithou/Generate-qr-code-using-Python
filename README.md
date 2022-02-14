@@ -1,4 +1,4 @@
-# Generate Qr code using Python
+# Generate QR code using Python
 
 ## Requirments
 ```
