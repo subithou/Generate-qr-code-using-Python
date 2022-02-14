@@ -1,7 +1,7 @@
 # Generate QR code using Python
 
 ## Requirments
-```python
+```
 pip install pyqrcode
 pip install pypng
 ```
