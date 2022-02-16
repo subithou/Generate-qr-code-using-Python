@@ -16,4 +16,5 @@ url = pyqrcode.create(s)
 # url.svg("qrcode.svg", scale = 8)
   
 # Create and save the png file naming "myqr.png"
+# Scale - it secify the size of image
 url.png('qrcode.jpg', scale = 45)
